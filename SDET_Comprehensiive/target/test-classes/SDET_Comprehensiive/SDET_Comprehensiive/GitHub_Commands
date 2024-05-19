@@ -1,0 +1,20 @@
+git init
+Initialize Git Repository
+
+git add .
+Add Files
+
+git commit -m "Your commit message here"
+Commit Changes: Commit the changes to the local repository:
+
+git remote add origin https://github.com/username/repository.git
+Connect to GitHub Repository: 
+
+git push -u origin master
+Push Changes: Finally, push your committed changes to GitHub:
+
+GtHub_Link:
+https://github.com/veeturipraneetha/SDET_Comprehensive.git
+
+
+
